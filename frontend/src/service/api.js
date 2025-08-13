@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: `http://localhost:5001/api`,
+  baseURL: `https://twofa-auth-hjr1.onrender.com/api`,
 });
