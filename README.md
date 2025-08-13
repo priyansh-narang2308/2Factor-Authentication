@@ -93,7 +93,7 @@ POST   /api/auth/2fa/reset   → Disable or reset 2FA
 
 ### Clone the repository
 ```bash
-git clone https://github.com/priyansh-narang2308/2Factor-Authentication.git
+git clone https://github.com/priyansh-narang2308/2fa-auth.git
 cd frontend
 npm install
 ```
