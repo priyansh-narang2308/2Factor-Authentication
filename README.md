@@ -13,11 +13,6 @@ This project demonstrates a complete **1FA (username/password)** and **2FA (TOTP
 - [Routes](#routes)
 - [Installation & Setup](#installation--setup)
 - [Environment Variables](#environment-variables)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [2FA Workflow](#2fa-workflow)
-- [Security Considerations](#security-considerations)
-- [License](#license)
 
 ---
 
