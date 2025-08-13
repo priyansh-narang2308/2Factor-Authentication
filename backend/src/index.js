@@ -14,7 +14,7 @@ const app = express();
 
 //Middlewares
 const corsOptionsNeeed = {
-  origin: ["http://localhost:3001"],
+  origin: ["https://2fauthh.vercel.app"],
   credentials: true,
 };
 app.use(cors(corsOptionsNeeed));
